@@ -1,7 +1,8 @@
 # Hi there 👋, Adem Tacyildiz
 ## Computer Programmer
 
-![Screenshot 2023-04-26 211305](https://user-images.githubusercontent.com/121722868/234666043-c3fa2c9b-cc8a-4150-8c03-313cee72324b.png)
+![b4e371619042d1e80918d09904e90f7d](https://user-images.githubusercontent.com/121722868/234666251-54bb8c2f-1607-49af-87cb-6cc1fb17d95a.gif)
+
 
 
 
