@@ -7,8 +7,8 @@
 Hi! My name is Adem Taçyıldız. I am studying Computer Programming at Sakarya University of Applied Sciences. I am interested in software development.
 
 ## Skills and Experince
-C#
-.NEt
+*C#
+*.NEt
 
 
 ## Contact 
