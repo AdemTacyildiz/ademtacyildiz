@@ -1,6 +1,6 @@
 ### Hi there 👋, Adem Tacyildiz
 #### Computer Programmer
-dino.gif
+(https://media.tenor.com/MNVxgsGfaUQAAAAd/in-space-national-space-day.gif)
 
 Hi! My name is Adem Taçyıldız. I am studying Computer Programming at Sakarya University of Applied Sciences. I am interested in software development.
 
