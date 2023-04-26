@@ -15,7 +15,7 @@
 </a>  
   
 
-<img src="https://pbs.twimg.com/profile_banners/1257376127821189122/1682528226/1500x500" align="left" height="" width="500" />  
+<img src="https://pbs.twimg.com/profile_banners/1257376127821189122/1682528226/1500x500" align="left" height="" width="600" />  
   
 
 
@@ -37,6 +37,7 @@
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="25" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
 </div>  
 
 <br/>  
