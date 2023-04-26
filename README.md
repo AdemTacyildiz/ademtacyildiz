@@ -27,6 +27,7 @@ Hi! My name is Adem Taçyıldız. I am studying Computer Programming at Sakarya 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemTacyildiz)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=AdemTacyildiz&show_icons=true&theme=radical)
+
 
 
