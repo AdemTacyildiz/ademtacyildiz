@@ -1,8 +1,8 @@
 # Hi there 👋, Adem Tacyildiz
 ## Computer Programmer
 
+<img src="[gorsel-link](https://media.tenor.com/jKE-CQ_fhbkAAAAd/space.gif)" width="auto">
 
-![Computer Programmer](https://media.tenor.com/jKE-CQ_fhbkAAAAd/space.gif)
 
 Hi! My name is Adem Taçyıldız. I am studying Computer Programming at Sakarya University of Applied Sciences. I am interested in software development.
 - 🔭 I’m currently working on ...
