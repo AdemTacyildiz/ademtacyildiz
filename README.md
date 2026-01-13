@@ -1,7 +1,11 @@
-<h2 align="center">Hi 👋 I'm Adem Taçyıldız</h2>
+<h2 align="center">Adem Taçyıldız</h2>
 
 <p align="center">
-  Backend Software Engineer • Payments & Banking Systems
+  Backend Software Engineer
+</p>
+
+<p align="center">
+  Payments • Refunds • Banking Systems
 </p>
 
 <p align="center">
@@ -15,20 +19,18 @@
 
 ---
 
-### 👨‍💻 About
-Backend-focused software engineer with hands-on experience in **payment, refund and banking integrations**.  
-I build **reliable, scalable and maintainable backend systems** with a strong focus on **clean code and business logic correctness**.
+### About
+Backend-focused software engineer with hands-on experience in **financial systems**,  
+specializing in **payment, refund and banking integrations**.
 
-- 💳 Payments, refunds, banking workflows
-- ☕ Java (8–21) & Spring ecosystem
-- 🧠 Business-critical systems & integrations
+I build systems where **correctness, reliability and clarity** matter more than hype.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Backend**
-- Java 8–21
+- Java (8–21)
 - Spring Boot, Spring Data JPA
 - RESTful API design
 - Hibernate / JPA
@@ -41,6 +43,12 @@ I build **reliable, scalable and maintainable backend systems** with a strong fo
 - PostgreSQL
 - MySQL
 
+**Engineering**
+- Clean Code & SOLID
+- Transaction management
+- Idempotent APIs
+- Error handling & observability
+
 **Tools**
 - Git / GitLab
 - Docker (basic)
@@ -49,21 +57,12 @@ I build **reliable, scalable and maintainable backend systems** with a strong fo
 
 ---
 
-### 📌 What I Care About
-- Clean architecture & readable code
-- Correct financial calculations
-- Idempotency & consistency
-- Observability & error handling
-- Long-term maintainability
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdemTacyildiz&show_icons=true&hide_border=true" width="46%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemTacyildiz&layout=compact&hide_border=true" width="46%" />
-</p>
+### What I Focus On
+- Writing readable and maintainable code
+- Building safe financial workflows
+- Preventing double processing & inconsistencies
+- Designing APIs that age well
+- Understanding business logic deeply
 
 ---
 
